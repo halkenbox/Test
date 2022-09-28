@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC4eB983B27DE7C200A3Eacd79451315761bb6bCa",
+  "SCAN_LINK": "https://goerli-optimism.etherscan.io/token/0xc4eb983b27de7c200a3eacd79451315761bb6bca",
+  "NETWORK": {
+    "NAME": "Optimism Goerli",
+    "SYMBOL": "ETH",
+    "ID": 420
+  },
+  "NFT_NAME": "Optitest",
+  "SYMBOL": "TTT",
+  "MAX_SUPPLY": 552,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
